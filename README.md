@@ -1,10 +1,16 @@
-eggs
+# Breakfast
 
-pizza
-burrito
-taco
+* eggs
 
-beer
-wine
-water
-vodka
+# Dinner
+
+* pizza
+* burrito
+* taco
+
+# Drinks
+
+* beer
+* wine
+* water
+* vodka
