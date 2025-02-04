@@ -1,7 +1,7 @@
 eggs
 
 pizza
-hamburger
+veggie hamburger
 taco
 
 beer
